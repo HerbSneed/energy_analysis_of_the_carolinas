@@ -34,9 +34,8 @@ Data was obtained from the Open Meteo and the EIA APIs.
 
 ## Project Structure
 
-├─ asteroid_analysis.ipynb  
-├─ asteroid_data.csv  
-├─ asteroid_database.db  
+├─ north_carolina_energy_analysis.ipynb 
+├─ North_Carolina_Energy_DB.db  
 ├─ README.md  
 
 ## Future Improvements
