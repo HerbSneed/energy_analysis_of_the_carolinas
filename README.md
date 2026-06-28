@@ -34,9 +34,9 @@ Data was obtained from the Open Meteo and the EIA APIs.
 
 ## Project Structure
 
-├─ north_carolina_energy_analysis.ipynb 
-├─ North_Carolina_Energy_DB.db
-├─ README.md  
+| north_carolina_energy_analysis.ipynb 
+| North_Carolina_Energy_DB.db  
+| README.md  
 
 ## Future Improvements
 
